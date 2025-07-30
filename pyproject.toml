@@ -1,0 +1,11 @@
+[project]
+name = "rishtay-wali-anti"
+version = "0.1.0"
+description = " 🧕💞Meet Saira Rishta Agent "
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chainlit>=2.6.3",
+    "dotenv>=0.9.9",
+    "openai-agents>=0.2.3",
+]
