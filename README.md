@@ -1,4 +1,4 @@
-🧕💞 Saira Rishta Agent — AI-powered Rishta Wali Auntie 💝💍
+🧕💞 AI-powered Rishta Wali Auntie 💝💍
 
 Because even shaadi proposals need a tech upgrade in 2025!
 
