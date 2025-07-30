@@ -62,7 +62,7 @@ Tech meets tradition — now Auntie brings rishtas via WhatsApp, not your drawin
 
 🚀 Getting Started
 
-1.	Clone this repo
+1.	Make this repo
 
 2.	Create a .env file and add API keys
 
