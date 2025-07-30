@@ -70,7 +70,7 @@ Tech meets tradition — now Auntie brings rishtas via WhatsApp, not your drawin
 
 4.	Start chatting with Saira Auntie!
 
-****uv run chainlit run main.app -w*****
+****uv run chainlit run main.py -w*****
 
 🙌 Feedback & Contributions
 
