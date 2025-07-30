@@ -12,7 +12,7 @@ Your classic matchmaking auntie — upgraded with modern tools and APIs:
 
 ✅ Searches LinkedIn profiles like a true detective 👀
 
-✅ Sends WhatsApp proposals instantly
+✅ Sends WhatsApp proposals instantly🤞
 
 ✅ Ends every chat with a warm “Shukriya beta” ❤️
 
